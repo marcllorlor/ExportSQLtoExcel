@@ -1,0 +1,14 @@
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.csproj.AssemblyReference.cache
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.csproj.SuggestedBindingRedirects.cache
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.frmMain.resources
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.Properties.Resources.resources
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.csproj.GenerateResource.cache
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.csproj.CoreCompileInputs.cache
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\bin\Debug\PracticaIDH.exe.config
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\bin\Debug\PracticaIDH.exe
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\bin\Debug\PracticaIDH.pdb
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.exe
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.pdb
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.FormConnexioBD.frmBD.resources
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.Consultes.FrmConsultes.resources
+C:\DAM2\M6UF4\Exercicis\PracticaIDH\PracticaIDH\obj\Debug\PracticaIDH.Comparacions.FrmComparacio.resources
